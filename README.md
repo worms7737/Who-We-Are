@@ -1,5 +1,5 @@
 # Who-We-Are
-This website is a page that hosts our personal portfolios online
+이 레포지토리는 자기소개서 및 이력사항 기술서를 웹 호스팅을 통해 서비스 하고자 하는 토이프로젝트용 레포지토리입니다.
 
 ## Member
 
